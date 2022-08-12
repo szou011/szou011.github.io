@@ -1,0 +1,8 @@
+[input]
+base_directory = "output"
+html_selector = "main"
+
+[[input.files]]
+path = "my-first-article.html"
+url = "/my-first-article.html"
+title = "My First Article"
